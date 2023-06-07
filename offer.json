@@ -1,0 +1,4 @@
+[
+    { "sku": "atv", "minimumQuantity": 3, "freeQuantity": 1 },
+    { "sku": "ipd", "minimumQuantity": 5, "bulkPrice": 499.99 }
+]
